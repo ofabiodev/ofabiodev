@@ -11,8 +11,8 @@ Here, you'll find my **projects, experiments, and a bit of my journey in tech**.
 <table>
   <tbody>
     <tr>
-      <td width="200">✨ <a href="https://github.com/ofabiodev/tusk/pulls?q=is:merged+author:ofabiodev">Tusk</a></td>
-      <td width="150"><a href="https://www.npmjs.com/package/tusk"><img alt="NPM Downloads" src="https://img.shields.io/npm/dy/tusk?style=flat-square&logoColor=%23f25050&label=Downloads&labelColor=%23f25050&color=%23f25050"></a></td>
+      <td width="200">✨ <a href="https://github.com/ofabiodev/tusk.js/pulls?q=is:merged+author:ofabiodev">Tusk.js</a></td>
+      <td width="150"><a href="https://www.npmjs.com/package/tusk.js"><img alt="NPM Downloads" src="https://img.shields.io/npm/dy/tusk.js?style=flat-square&logoColor=%23f25050&label=Downloads&labelColor=%23f25050&color=%23f25050"></a></td>
     </tr>
     <tr>
       <td width="200">📦 <a href="https://github.com/rinckodev/constatic-docs/pulls?q=is:merged+author:ofabiodev">Constatic Docs</a></td>
